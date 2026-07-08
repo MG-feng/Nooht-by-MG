@@ -382,7 +382,3 @@ MAJOR.MINOR.PATCH
 
 <p align="center"><i>Every contribution makes Nooht smarter. Thank you.</i></p>
 '''
-
-with open(os.path.join(base_dir, ".github/CONTRIBUTING.md"), "w", encoding="utf-8") as f:
-    f.write(contributing_md)
-print("✅ Created: .github/CONTRIBUTING.md")
