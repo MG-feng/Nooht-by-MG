@@ -1,6 +1,6 @@
 
 # ============================================================
-# 2. .github/CONTRIBUTING.md — Contribution guidelines
+# 2.Contribution guidelines
 # ============================================================
 
 contributing_md = r'''# Contributing to Nooht Framework
