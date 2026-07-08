@@ -29,7 +29,7 @@ If you discover a security vulnerability, **do not open a public issue**.
 Instead, email the security team:
 
 ```
-security@nooht.dev
+fengmelvina@gmail.com / fengmelvin2013@gmail.com
 ```
 
 **Include the following:**
