@@ -200,19 +200,7 @@ Nooht is a **model-agnostic structured code cognition memory system** designed t
 
 ---
 
-## 10. Team Assignment & Responsibilities
-
-| Role | Model | Responsibilities | Current Deliverables | Status |
-|------|-------|-------------------|---------------------|--------|
-| **Intelligence & Research Lead** | Kimi 2.6 | Literature review, technical reports, comparative analysis, architecture documentation | ✅ summary_report.md, ✅ Technical Comparison Whitepaper | Complete |
-| **Chief Creative Officer** | Grok 4 | Break architectural ceilings, propose impossible ideas, explore novel compression/retrieval paradigms | 🟡 Next: Graph database backend abstraction, adversarial test design | Pending |
-| **Chief Scientist (Validation)** | DeepSeek V4 | Feasibility verification, adapter API design, benchmark tooling, Nightglow interface testing | 🟡 Next: Adapter API stability test, Large-scale stress test | Pending |
-| **Chief Scientist (Audit)** | Qwen 3.7-Max | Nooht Audit Suite: Memory Integrity, HMC Fidelity, SCM Recall, Leakage tests | 🟡 Next: HMC Fidelity Test, SCM Recall Test | Pending |
-| **Technical Director** | ChatGPT 5.5 | System architecture, production-grade pseudocode, documentation consolidation, project management | 🟡 Next: System architecture diagrams, pseudocode modules, refactor plan | Pending |
-
----
-
-## 11. Risk Register
+## 10. Risk Register
 
 | Risk ID | Risk Description | Probability | Impact | Mitigation | Owner | Status |
 |---------|-----------------|-------------|--------|------------|-------|--------|
@@ -229,7 +217,7 @@ Nooht is a **model-agnostic structured code cognition memory system** designed t
 
 ---
 
-## 12. Validation Checklist (Release Gate)
+## 11. Validation Checklist (Release Gate)
 
 | Gate | Requirement | Pass Criteria | Owner | Status |
 |------|-------------|---------------|-------|--------|
@@ -251,7 +239,7 @@ Nooht is a **model-agnostic structured code cognition memory system** designed t
 
 ---
 
-## 13. Project Timeline
+## 12. Project Timeline
 
 | Phase | Duration | Key Deliverables | Dependencies | Status |
 |-------|----------|-----------------|-------------|--------|
@@ -262,7 +250,7 @@ Nooht is a **model-agnostic structured code cognition memory system** designed t
 
 ---
 
-## 14. Glossary
+## 13. Glossary
 
 | Term | Definition |
 |------|------------|
@@ -283,7 +271,7 @@ Nooht is a **model-agnostic structured code cognition memory system** designed t
 
 ---
 
-## 15. References
+## 14. References
 
 | # | Citation | Relevance |
 |---|----------|-----------|
