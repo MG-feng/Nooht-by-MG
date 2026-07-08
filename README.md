@@ -311,6 +311,7 @@ results = memory.query(tag="auth", limit=5)
 - <a href="api-document/HMC_GUIDE.md">HMC Guide</a> — Compression levels & policies
 - <a href="api-document/ADAPTER_GUIDE.md">Adapter Guide</a> — Integrating custom LLMs
 - <a href="api-document/CHANGELOG.md">Changelog</a> — Version history
+- <a href="api-document/SUMMARY_REPORT.md">Summary Report</a> — View detailed tabular report
 
 ---
 
