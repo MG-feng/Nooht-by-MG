@@ -1,6 +1,6 @@
 
 # ============================================================
-# 6. api-document/QUICKSTART.md
+# 6. QUICKSTART.md
 # ============================================================
 
 quickstart_md = r'''# Nooht Framework — Quick Start Guide
