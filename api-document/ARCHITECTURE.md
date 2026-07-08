@@ -1,6 +1,6 @@
 
 # ============================================================
-# 4. api-document/ARCHITECTURE.md
+# 4. ARCHITECTURE.md
 # ============================================================
 
 architecture_md = r'''# Nooht Framework — Architecture Overview
